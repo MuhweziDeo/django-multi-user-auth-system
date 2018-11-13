@@ -2,8 +2,8 @@
 
 # Features
 
-- Two different types of users can be logged in and redirect basing on thier type
-- It overwrites default django user model and users a custom user model
+- Two different types of users can be logged in and redirected basing on thier type
+- It overwrites default django user model and uses a custom user model
 
 # Weakness 
 
